@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hello, I'm Sophia 👋
 
-<!--
-**sophia-devlog/sophia-devlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer | QA | Data
 
-Here are some ideas to get you started:
+I'm interested in building reliable web services and improving software quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+
+Language: Java, JavaScript
+
+Backend: Spring, Spring Boot, Spring Security
+
+Database: MySQL, JDBC
+
+Frontend: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, Postman
+
+📌 Featured Project
+
+Shopping Mall Web Application
+
+A full-stack shopping mall project developed using Spring Boot and MySQL.
+
+Product search and management (CRUD)
+
+Shopping cart and order management
+
+KakaoPay payment API integration
+
+Admin page
+
+Spring Security authentication
+
+Currently runs locally.
+
+🎯 Currently Working On
+
+Improving Java and Spring development skills
+
+Learning software testing and QA
+
+Practicing SQL and database management
+
+📜 Certifications
+
+Engineer Information Processing
+
+ADsP
+
+TOEIC 810
